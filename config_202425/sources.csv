@@ -1,0 +1,3 @@
+source_id,survey,year,guide_file,dictionary_file,url,citation
+adult_2024,adult,2024/25,Active Lives survey_Year 10_Data User Guide_FINAL.pdf,metadata_202425.txt,,"Sport England / Ipsos. Active Lives Adult Survey Year 10 (2024/25), Data User Guide, pp.5 and 10; supplied LA dataset SPSS metadata."
+cyp_2024,cyp,2024/25,Active Lives Child Y8 Data User Guide (2024-25) v1 PUBLIC (1).pdf,metadata_202425.txt,,"Sport England / Ipsos. Active Lives Child Year 8 (2024/25), Data User Guide; supplied LA wt_grossCCLA.csplan and SPSS metadata. Public-guide weight names must not replace LA weight names."

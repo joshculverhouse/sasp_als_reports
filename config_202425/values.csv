@@ -1,0 +1,790 @@
+survey,year,variable,code,source_label,analysis_label,include,source_id
+adult,2024/25,gend3,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,gend3,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,gend3,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,gend3,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,gend3,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,gend3,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,gend3,1,Male,Male,TRUE,adult_2024
+adult,2024/25,gend3,2,Female,Female,TRUE,adult_2024
+adult,2024/25,gend3,3,Other,Other,TRUE,adult_2024
+adult,2024/25,eth2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,eth2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,eth2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,eth2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,eth2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,eth2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,eth2,1,White British,White British,TRUE,adult_2024
+adult,2024/25,eth2,2,Non White British,Non White British,TRUE,adult_2024
+adult,2024/25,eth7,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,eth7,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,eth7,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,eth7,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,eth7,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,eth7,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,eth7,1,White British,White British,TRUE,adult_2024
+adult,2024/25,eth7,2,White Other,White Other,TRUE,adult_2024
+adult,2024/25,eth7,3,Asian (excl. Chinese),Asian (excl. Chinese),TRUE,adult_2024
+adult,2024/25,eth7,4,Black,Black,TRUE,adult_2024
+adult,2024/25,eth7,5,Chinese,Chinese,TRUE,adult_2024
+adult,2024/25,eth7,6,Mixed,Mixed,TRUE,adult_2024
+adult,2024/25,eth7,7,Other ethnic group,Other ethnic group,TRUE,adult_2024
+adult,2024/25,age3,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,age3,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,age3,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,age3,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,age3,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,age3,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,age3,1,16-34,16-34,TRUE,adult_2024
+adult,2024/25,age3,2,35-54,35-54,TRUE,adult_2024
+adult,2024/25,age3,3,55+,55+,TRUE,adult_2024
+adult,2024/25,age4,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,age4,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,age4,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,age4,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,age4,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,age4,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,age4,1,16-34,16-34,TRUE,adult_2024
+adult,2024/25,age4,2,35-54,35-54,TRUE,adult_2024
+adult,2024/25,age4,3,55-74,55-74,TRUE,adult_2024
+adult,2024/25,age4,4,75+,75+,TRUE,adult_2024
+adult,2024/25,age9,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,age9,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,age9,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,age9,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,age9,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,age9,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,age9,1,14-15,14-15,FALSE,adult_2024
+adult,2024/25,age9,2,16-24,16-24,TRUE,adult_2024
+adult,2024/25,age9,3,25-34,25-34,TRUE,adult_2024
+adult,2024/25,age9,4,35-44,35-44,TRUE,adult_2024
+adult,2024/25,age9,5,45-54,45-54,TRUE,adult_2024
+adult,2024/25,age9,6,55-64,55-64,TRUE,adult_2024
+adult,2024/25,age9,7,65-74,65-74,TRUE,adult_2024
+adult,2024/25,age9,8,75-84,75-84,TRUE,adult_2024
+adult,2024/25,age9,9,85+,85+,TRUE,adult_2024
+adult,2024/25,nssec4,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,nssec4,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,nssec4,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,nssec4,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,nssec4,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,nssec4,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,nssec4,1,NS SEC 1-4: Higher and middle social groups,NS SEC 1-4: Higher and middle social groups,TRUE,adult_2024
+adult,2024/25,nssec4,2,NS SEC 5-8: Lower social groups,NS SEC 5-8: Lower social groups,TRUE,adult_2024
+adult,2024/25,nssec4,3,NS SEC 9: Students and other / unclassified,NS SEC 9: Students and other / unclassified,TRUE,adult_2024
+adult,2024/25,nssec5,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,nssec5,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,nssec5,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,nssec5,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,nssec5,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,nssec5,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,nssec5,1,NS SEC 1-2: Higher social groups,NS SEC 1-2: Higher social groups,TRUE,adult_2024
+adult,2024/25,nssec5,2,NS SEC 3-5: Middle social groups,NS SEC 3-5: Middle social groups,TRUE,adult_2024
+adult,2024/25,nssec5,3,NS SEC 6-8: Lower social groups,NS SEC 6-8: Lower social groups,TRUE,adult_2024
+adult,2024/25,nssec5,4,NS SEC 9: Students and other / unclassified,NS SEC 9: Students and other / unclassified,TRUE,adult_2024
+adult,2024/25,disab2_pop,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,disab2_pop,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,disab2_pop,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,disab2_pop,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,disab2_pop,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,disab2_pop,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,disab2_pop,1,Disability,Disability,TRUE,adult_2024
+adult,2024/25,disab2_pop,2,No disability,No disability,TRUE,adult_2024
+adult,2024/25,wellb_anxious_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,wellb_anxious_gr,1,Very high (6-10),Very high (6-10),TRUE,adult_2024
+adult,2024/25,wellb_anxious_gr,2,Medium (4-5),Medium (4-5),TRUE,adult_2024
+adult,2024/25,wellb_anxious_gr,3,Low (2-3),Low (2-3),TRUE,adult_2024
+adult,2024/25,wellb_anxious_gr,4,Very low (0-1),Very low (0-1),TRUE,adult_2024
+adult,2024/25,wellb_happy_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,wellb_happy_gr,1,Low (0-4),Low (0-4),TRUE,adult_2024
+adult,2024/25,wellb_happy_gr,2,Medium (5-6),Medium (5-6),TRUE,adult_2024
+adult,2024/25,wellb_happy_gr,3,High (7-8),High (7-8),TRUE,adult_2024
+adult,2024/25,wellb_happy_gr,4,Very high (9-10),Very high (9-10),TRUE,adult_2024
+adult,2024/25,lone,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,lone,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,lone,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,lone,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,lone,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,lone,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,lone,1,Often / always,Often / always,TRUE,adult_2024
+adult,2024/25,lone,2,Some of the time,Some of the time,TRUE,adult_2024
+adult,2024/25,lone,3,Occasionally,Occasionally,TRUE,adult_2024
+adult,2024/25,lone,4,Hardly ever,Hardly ever,TRUE,adult_2024
+adult,2024/25,lone,5,Never,Never,TRUE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,wellb_lifesat_gr,1,Low (0-4),Low (0-4),TRUE,adult_2024
+adult,2024/25,wellb_lifesat_gr,2,Medium (5-6),Medium (5-6),TRUE,adult_2024
+adult,2024/25,wellb_lifesat_gr,3,High (7-8),High (7-8),TRUE,adult_2024
+adult,2024/25,wellb_lifesat_gr,4,Very high (9-10),Very high (9-10),TRUE,adult_2024
+adult,2024/25,wellb_worthw_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,wellb_worthw_gr,1,Low (0-4),Low (0-4),TRUE,adult_2024
+adult,2024/25,wellb_worthw_gr,2,Medium (5-6),Medium (5-6),TRUE,adult_2024
+adult,2024/25,wellb_worthw_gr,3,High (7-8),High (7-8),TRUE,adult_2024
+adult,2024/25,wellb_worthw_gr,4,Very high (9-10),Very high (9-10),TRUE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,0,None,None,TRUE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,1,1,1,TRUE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,2,2,2,TRUE,adult_2024
+adult,2024/25,wellb_numberhigh_gr4,3,3+,3+,TRUE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,0,Inactive,Inactive,TRUE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,1,Fairly Active,Fairly active,TRUE,adult_2024
+adult,2024/25,mems7gr_sportcount_a01,2,Active,Active,TRUE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_acttrav_c03,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_cycleissport_b03,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_walkleisure_b01,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_teamsport_c05,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_swimjust_u01,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_runjog_u07,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,0,0,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,1,1,Did not participate twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,days10p60gr_fitness_b06,2,2+,Participated at least twice in the last 28 days,TRUE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,0,0-1 session,Fewer than 2 sessions,TRUE,adult_2024
+adult,2024/25,muscle7gr2_sportcount_a01,1,2+ sessions,2+ sessions,TRUE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,readyab1_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,readyab1_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,readyop1_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,readyop1_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motiva_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motiva_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motiva_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motivb_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motivb_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motivb_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motivc_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motivc_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motivc_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motivd_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motivd_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motivd_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motive_pop_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motive_pop_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motive_pop_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motivex2a_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motivex2a_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motivex2a_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,motivex2b_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,motivex2b_gr2,0,Does not strongly agree,Does not strongly agree,TRUE,adult_2024
+adult,2024/25,motivex2b_gr2,1,Strongly agree,Strongly agree,TRUE,adult_2024
+adult,2024/25,comm1_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,comm1_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,comm1_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,comm1_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,comm1_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,comm1_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,comm1_gr,1,Agree or strongly agree,Agree or strongly agree,TRUE,adult_2024
+adult,2024/25,comm1_gr,2,Neither agree or disagree,Neither agree or disagree,TRUE,adult_2024
+adult,2024/25,comm1_gr,3,Disagree or strongly disagree,Disagree or strongly disagree,TRUE,adult_2024
+adult,2024/25,comm2_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,comm2_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,comm2_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,comm2_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,comm2_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,comm2_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,comm2_gr,-2,People in this area are all of the same background,People in this area are all of the same background,FALSE,adult_2024
+adult,2024/25,comm2_gr,-1,There are too few people in the local area,There are too few people in the local area,FALSE,adult_2024
+adult,2024/25,comm2_gr,1,Tend to agree/ tend to disagree/ definitely disagree,Tend to agree/ tend to disagree/ definitely disagree,TRUE,adult_2024
+adult,2024/25,comm2_gr,2,Definitely agree,Definitely agree,TRUE,adult_2024
+adult,2024/25,indev_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,indev_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,indev_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,indev_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,indev_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,indev_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,indev_gr,1,Agree or strongly agree,Agree or strongly agree,TRUE,adult_2024
+adult,2024/25,indev_gr,2,Neither agree or disagree,Neither agree or disagree,TRUE,adult_2024
+adult,2024/25,indev_gr,3,Disagree or strongly disagree,Disagree or strongly disagree,TRUE,adult_2024
+adult,2024/25,indevtry_gr,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,indevtry_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,indevtry_gr,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,indevtry_gr,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,indevtry_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,indevtry_gr,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,indevtry_gr,1,Agree or strongly agree,Agree or strongly agree,TRUE,adult_2024
+adult,2024/25,indevtry_gr,2,Neither agree or disagree,Neither agree or disagree,TRUE,adult_2024
+adult,2024/25,indevtry_gr,3,Disagree or strongly disagree,Disagree or strongly disagree,TRUE,adult_2024
+adult,2024/25,volany,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,volany,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,volany,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,volany,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,volany,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,volany,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,volany,0,No,No,TRUE,adult_2024
+adult,2024/25,volany,1,Yes,Yes,TRUE,adult_2024
+adult,2024/25,volfrqb_pop,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,volfrqb_pop,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,volfrqb_pop,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,volfrqb_pop,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,volfrqb_pop,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,volfrqb_pop,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,volfrqb_pop,0,Not volunteered,Not volunteered,TRUE,adult_2024
+adult,2024/25,volfrqb_pop,1,Volunteered once/one-off in the last year,Volunteered once/one-off in the last year,TRUE,adult_2024
+adult,2024/25,volfrqb_pop,2,Volunteered a few times in the last year,Volunteered a few times in the last year,TRUE,adult_2024
+adult,2024/25,volfrqb_pop,3,Volunteered at least once a month but not one a week throughout the year,Volunteered at least once a month but not one a week throughout the year,TRUE,adult_2024
+adult,2024/25,volfrqb_pop,4,Volunteered once a week throughout the year,Volunteered once a week throughout the year,TRUE,adult_2024
+adult,2024/25,voldur_gr2,-99,"Missing, should have been answered","Missing, should have been answered",FALSE,adult_2024
+adult,2024/25,voldur_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,adult_2024
+adult,2024/25,voldur_gr2,-97,Incorrectly multicoded,Incorrectly multicoded,FALSE,adult_2024
+adult,2024/25,voldur_gr2,-96,Out of range,Out of range,FALSE,adult_2024
+adult,2024/25,voldur_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,adult_2024
+adult,2024/25,voldur_gr2,-94,Prefer not to say,Prefer not to say,FALSE,adult_2024
+adult,2024/25,voldur_gr2,1,An hour or less,An hour or less,TRUE,adult_2024
+adult,2024/25,voldur_gr2,2,Over an hour,Over an hour,TRUE,adult_2024
+cyp,2024/25,gend3,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,gend3,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,gend3,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,gend3,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,gend3,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,gend3,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,gend3,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,gend3,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,gend3,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,gend3,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,gend3,1,Boy,Boy,TRUE,cyp_2024
+cyp,2024/25,gend3,2,Girl,Girl,TRUE,cyp_2024
+cyp,2024/25,gend3,3,Other,Other,TRUE,cyp_2024
+cyp,2024/25,gend3,4,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,gend3,5,Information uncodeable,Information uncodeable,FALSE,cyp_2024
+cyp,2024/25,eth2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,eth2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,eth2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,eth2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,eth2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,eth2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,eth2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,eth2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,eth2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,eth2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,eth2,1,White British,White British,TRUE,cyp_2024
+cyp,2024/25,eth2,2,Other,Other,TRUE,cyp_2024
+cyp,2024/25,eth2,3,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,schyr_5_2,1,Year 1 -2 (parent),Year 1 -2 (parent),TRUE,cyp_2024
+cyp,2024/25,schyr_5_2,2,Year 3-4,Year 3-4,TRUE,cyp_2024
+cyp,2024/25,schyr_5_2,3,Year 5-6,Year 5-6,TRUE,cyp_2024
+cyp,2024/25,schyr_5_2,4,Year 7-8,Year 7-8,TRUE,cyp_2024
+cyp,2024/25,schyr_5_2,5,Year 9-11,Year 9-11,TRUE,cyp_2024
+cyp,2024/25,schyr_3,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,schyr_3,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,schyr_3,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,schyr_3,1,Year 1 -2 (parent),Year 1 -2 (parent),TRUE,cyp_2024
+cyp,2024/25,schyr_3,2,Year 3-6,Year 3-6,TRUE,cyp_2024
+cyp,2024/25,schyr_3,3,Year 7-11,Year 7-11,TRUE,cyp_2024
+cyp,2024/25,disab_all_pop,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,1,Yes,Yes,TRUE,cyp_2024
+cyp,2024/25,disab_all_pop,2,No,No,TRUE,cyp_2024
+cyp,2024/25,disab_all_pop,3,Don’t know,Don’t know,FALSE,cyp_2024
+cyp,2024/25,disab_all_pop,4,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,impair4,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,impair4,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,impair4,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,impair4,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,impair4,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,impair4,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,impair4,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,impair4,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,impair4,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,impair4,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,impair4,0,No disability,No disability,FALSE,cyp_2024
+cyp,2024/25,impair4,1,1 impairment,1 impairment,TRUE,cyp_2024
+cyp,2024/25,impair4,2,2 impairments,2 impairments,TRUE,cyp_2024
+cyp,2024/25,impair4,3,3+ impairments,3+ impairments,TRUE,cyp_2024
+cyp,2024/25,impair4,4,Prefer not to say or don't know,Prefer not to say or don't know,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,fasbandf,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,fasbandf,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,fasbandf,1,low 0-6,Low (0-6),TRUE,cyp_2024
+cyp,2024/25,fasbandf,2,medium 7 -10,Medium (7-10),TRUE,cyp_2024
+cyp,2024/25,fasbandf,3,high 11-13,High (11-13),TRUE,cyp_2024
+cyp,2024/25,lonely_c,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,lonely_c,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,lonely_c,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,lonely_c,1,Often/always,Often/always,TRUE,cyp_2024
+cyp,2024/25,lonely_c,2,Some of the time,Some of the time,TRUE,cyp_2024
+cyp,2024/25,lonely_c,3,Occasionally,Occasionally,TRUE,cyp_2024
+cyp,2024/25,lonely_c,4,Hardly ever,Hardly ever,TRUE,cyp_2024
+cyp,2024/25,lonely_c,5,Never,Never,TRUE,cyp_2024
+cyp,2024/25,lonely_c,6,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,lonely_gr,1,Often or Always lonely,Often or Always lonely,TRUE,cyp_2024
+cyp,2024/25,lonely_gr,2,Not Often/Always lonely,Not Often/Always lonely,TRUE,cyp_2024
+cyp,2024/25,lonely_gr,3,Prefer not say,Prefer not say,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,wellb_happy_gr,1,Low,Low,TRUE,cyp_2024
+cyp,2024/25,wellb_happy_gr,2,Medium,Medium,TRUE,cyp_2024
+cyp,2024/25,wellb_happy_gr,3,High,High,TRUE,cyp_2024
+cyp,2024/25,wellb_happy_gr,4,Very high,Very high,TRUE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,1,Low,Low,TRUE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,2,Medium,Medium,TRUE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,3,High,High,TRUE,cyp_2024
+cyp,2024/25,wellb_lifesat_gr,4,Very high,Very high,TRUE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,1,Low,Low,TRUE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,2,Medium,Medium,TRUE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,3,High,High,TRUE,cyp_2024
+cyp,2024/25,wellb_worthw_gr,4,Very high,Very high,TRUE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,1,Positive perceived self efficacy (resilience) (Strongly agree),Positive perceived self efficacy (resilience) (Strongly agree),TRUE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,2,Did not report positive self efficacy (resilience) (did not strongly agree),Did not report positive self efficacy (resilience) (did not strongly agree),TRUE,cyp_2024
+cyp,2024/25,try_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,1,Positive levels of social trust (Strongly agree),Positive levels of social trust (Strongly agree),TRUE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,2,Did not report positive levels of social trust (did not strongly agree),Did not report positive levels of social trust (did not strongly agree),TRUE,cyp_2024
+cyp,2024/25,trust_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,1,Strongly Agrees,Strongly Agrees,TRUE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,2,Does not strongly agree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_easy_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,1,Strongly Agrees,Strongly Agrees,TRUE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,2,Does not strongly agree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_enjoy_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,1,Strongly Agrees,Strongly Agrees,TRUE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,2,Does not strongly agree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_conf_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-99,Missing: should have been answered,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-98,Not applicable: Survey routing,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived",Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-96,Out of range,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-95,Cannot give an estimate / Don't know,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-94,Prefer not to say,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-93,Question not asked due to COVID,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-92,Missing: question not asked in this survey year or term,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-91,Missing: reason unspecified,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,-1,No information,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,1,Strongly agree,Strongly Agrees,TRUE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,2,Agree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,3,Disagree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,4,Strongly disagree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_know_c_sa_gr2,5,Can’t say,Does not strongly agree,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,1,Strongly Agrees,Strongly Agrees,TRUE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,2,Does not strongly agree,Does not strongly agree,TRUE,cyp_2024
+cyp,2024/25,pl_gdme_bc_sa_gr2,99,Can't say,Can't say,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,1,Less active (less than an average of 30 minutes a day),Less active,TRUE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,2,Fairly active (an average of 30-59 minutes a day),Fairly active,TRUE,cyp_2024
+cyp,2024/25,mins_modplus_everywhere_week_gr3_all,3,Active (an average of 60 minutes or more a day),Active,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_acttrav_ca210,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_actplay_ca140,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_walkleisure_cc002,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_dance_ca170,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_swim_cb156,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_teamsport_cb151,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,1,Participated once a week or more,Participated once a week or more,TRUE,cyp_2024
+cyp,2024/25,onceawk_modplus_everywhere_gr_runathmulti_cb154,2,Did not participate once a week,Did not participate once a week,TRUE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,1,Can swim 25m unaided,Can swim 25m unaided,TRUE,cyp_2024
+cyp,2024/25,swm25can_bcd_pop,2,Cannot swim 25m unaided,,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,1,Yes: Used this mode,Yes: Used this mode,TRUE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_1_car,2,No: Did not use this mode,No: Did not use this mode,TRUE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,1,Yes: Used this mode,Yes: Used this mode,TRUE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_2_active,2,No: Did not use this mode,No: Did not use this mode,TRUE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,1,Yes: Used this mode,Yes: Used this mode,TRUE,cyp_2024
+cyp,2024/25,schtrav_bcd_mode_3_public,2,No: Did not use this mode,No: Did not use this mode,TRUE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-99,Missing: should have been answered,Missing: should have been answered,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-98,Not applicable: Survey routing,Not applicable: Survey routing,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-97,"Incorrectly multicoded, implausible or cannot be derived","Incorrectly multicoded, implausible or cannot be derived",FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-96,Out of range,Out of range,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-95,Cannot give an estimate / Don't know,Cannot give an estimate / Don't know,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-94,Prefer not to say,Prefer not to say,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-93,Question not asked due to COVID,Question not asked due to COVID,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-92,Missing: question not asked in this survey year or term,Missing: question not asked in this survey year or term,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-91,Missing: reason unspecified,Missing: reason unspecified,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,-1,No information,No information,FALSE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,1,Only a garden and no other out of home outdoor space,Only a garden and no other out of home outdoor space,TRUE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,2,Only out of home outdoor space(s),Only out of home outdoor space(s),TRUE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,3,Both garden and out of home outdoor space,Both garden and out of home outdoor space,TRUE,cyp_2024
+cyp,2024/25,outdoor_bcd_overall,4,No outdoor space at home or outside,No outdoor space at home or outside,TRUE,cyp_2024

@@ -1,0 +1,25 @@
+---
+format:
+  html:
+    embed-resources: true
+    toc: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| results: asis
+# Works when rendered from the project root or from the reports directory.
+project_root <- if (file.exists("report_settings.R")) "." else ".."
+old_wd <- getwd()
+tryCatch({
+  setwd(project_root)
+  source("report_settings.R")
+  source("R/report_visuals.R")
+  source("R/report_builder.R")
+  source("R/report_plotly.R")
+  cat(als_report_content("cyp", settings))
+}, finally = setwd(old_wd))
+```

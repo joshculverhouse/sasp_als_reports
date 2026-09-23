@@ -1,0 +1,16 @@
+Annual ALS pipeline — first implementation (2023/24)
+
+This package contains an update to add to your existing active_lives_survey project.
+GitHub was unavailable when the package was prepared; no remote branch or pull request was created.
+
+1. Copy R/, config/, docs/, tests/ and run_report.R into the root of your existing project.
+2. Add the lines in gitignore-additions.txt to your existing .gitignore.
+3. Read README_annual_pipeline.md for the run instructions and limitations.
+4. In RStudio, open your existing .Rproj and install.packages("haven") if needed.
+5. Edit config/datasets.csv to point to each actual .sav file.
+6. In run_report.R, set mode = "audit" and Source. Send back variable_audit.csv if it flags issues.
+
+The historical Quarto reports and scripts are not changed by this overlay.
+The included patch is an alternative for applying the full change with Git; do not apply both ways.
+New outputs are validation drafts. They omit unapproved indicator weights, confidence intervals and
+significance claims pending method verification. No raw participant data or generated estimates are included.
